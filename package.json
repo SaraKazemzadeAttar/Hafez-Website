@@ -1,0 +1,26 @@
+{
+  "name": "hafez-website",
+  "version": "1.0.0",
+  "description": "A simple Hafez Website with HTML including video , audio and photos related to Hafez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraKazemzadeAttar/Hafez-Website.git"
+  },
+  "keywords": [
+    "[\"Hafez\"",
+    "\"html\"]"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaraKazemzadeAttar/Hafez-Website/issues"
+  },
+  "homepage": "https://github.com/SaraKazemzadeAttar/Hafez-Website#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
